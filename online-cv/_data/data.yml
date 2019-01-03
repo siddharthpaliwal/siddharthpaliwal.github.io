@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Siddharth Paliwal
@@ -79,7 +79,7 @@ projects:
 publications:
     title: Publications
     intro: |
-        link: "https://scholar.google.nl/citations?user=jZBM3dIAAAAJ&hl=en"
+    #    link: "https://scholar.google.nl/citations?user=jZBM3dIAAAAJ&hl=en"
 
     papers:
       - title: Ratchet-induced variations in bulk states of an active ideal gas
