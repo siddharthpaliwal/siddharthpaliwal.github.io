@@ -8,9 +8,7 @@ sidebar:
 
     # Profile information
     name: Siddharth Paliwal
-    tagline: PhD Candidate
-            Utrecht University, 
-            The Netherlands
+    tagline: PhD Candidate, Utrecht University, The Netherlands
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -87,6 +85,18 @@ publications:
       - title: Ratchet-induced variations in bulk states of an active ideal gas
         authors: J. Rodenburg, S. Paliwal, M. d. Jager, P. G. Bolhuis, M. Dijkstra and R. v. Roij
         conference: The Journal of Chemical Physics 149 (17), 174910
+        
+      - title: Chemical potential in active systems: predicting phase equilibrium from bulk equations of state?
+        authors: S Paliwal, J Rodenburg, R van Roij, M Dijkstra
+        conference: New Journal of Physics
+       
+      - title: Non-Equilibrium Surface Tension of the Vapour-Liquid Interface of Active Lennard-Jones Particles
+        authohrs: S Paliwal, V Prymidis, L Filion, M Dijkstra
+        conference: The Journal of Chemical Physics 147 (8), 084902
+        
+      - title: Vapour-liquid coexistence of an active Lennard-Jones fluid
+        authors: V Prymidis, S Paliwal, M Dijkstra, L Filion
+        conference: The Journal of Chemical Physics 145 (12), 124904
 
 skills:
     title: Skills &amp; Proficiency
