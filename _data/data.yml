@@ -66,10 +66,10 @@ projects:
     intro: >
       
 
-    #assignments:
-    #  - title: A simulation study of BCC phase transformations using modified LJ potential
-    #    link: "#"
-    #    tagline: "studied the Interfacial free energy and Polymorphism in a Lennard-Jones potential system using atomistic Monte-Carlo Simulations"
+    assignments:
+      - title: A simulation study of BCC phase transformations using modified LJ potential
+        link: "#"
+        tagline: "studied the Interfacial free energy and Polymorphism in a Lennard-Jones potential system using atomistic Monte-Carlo Simulations"
 
 
 
