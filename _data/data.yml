@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Siddharth Paliwal
@@ -41,10 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am a PhD student in the Soft Condensed Matter Group in the Utrecht University currently in my 4th year. My research 
-        is based on the computational study of Self-propelled nanoparticles to assist theoretical understanding of Active systems.
-        My project is a part of the Shell-NWO/FOM Computational Sciences for Energy Research program. I'm interested in solving physics 
-        and engineering problems through numerical modelling and simulations.
+        I am a PhD student in the Soft Condensed Matter Group in the Utrecht University currently in my 4th year. My research is based on the computational study of Self-propelled nanoparticles to assist theoretical understanding of Active systems. My project is a part of the Shell-NWO/FOM Computational Sciences for Energy Research program. I'm interested in solving physics and engineering problems through numerical modelling and simulations.
 
 education:
     - degree: B. Tech. and M. Tech. in Chemical Engineering
@@ -69,17 +66,17 @@ projects:
     intro: >
       
 
-    assignments:
-      - title: A simulation study of BCC phase transformations using modified LJ potential
-        link: "#"
-        tagline: "studied the Interfacial free energy and Polymorphism in a Lennard-Jones potential system using atomistic Monte-Carlo Simulations"
+    #assignments:
+    #  - title: A simulation study of BCC phase transformations using modified LJ potential
+    #    link: "#"
+    #    tagline: "studied the Interfacial free energy and Polymorphism in a Lennard-Jones potential system using atomistic Monte-Carlo Simulations"
 
 
 
 publications:
     title: Publications
     intro: |
-        link: "https://scholar.google.nl/citations?user=jZBM3dIAAAAJ&hl=en"
+    #    link: "https://scholar.google.nl/citations?user=jZBM3dIAAAAJ&hl=en"
 
     papers:
       - title: Ratchet-induced variations in bulk states of an active ideal gas
@@ -91,7 +88,7 @@ publications:
         conference: New Journal of Physics
        
       - title: Non-Equilibrium Surface Tension of the Vapour-Liquid Interface of Active Lennard-Jones Particles
-        authohrs: S Paliwal, V Prymidis, L Filion, M Dijkstra
+        authors: S Paliwal, V Prymidis, L Filion, M Dijkstra
         conference: The Journal of Chemical Physics 147 (8), 084902
         
       - title: Vapour-liquid coexistence of an active Lennard-Jones fluid
